@@ -4,9 +4,39 @@
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> </h2>
-  <p> Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por  la            programación y la tecnología. No dudes en explorar cada rincón de mi repositorio, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. ¡Espero que encuentres algo que te inspire en       tus propios desafíos de desarrollo! <br/><br/> <b> ¡Gracias por pasar por aquí y espero que disfrutes tu visita! </b> </p>
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+  <p align="left"> 
+    Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un <br/> mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por        la programación y la tecnología. No dudes en explorar cada rincón de mi repositorio, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. ¡Espero que encuentres algo que te inspire       en tus propios desafíos de desarrollo! <br/><br/> <b> ¡Gracias por pasar por aquí y espero que disfrutes tu visita! </b> 
+  </p>
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+---
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+
+---
 
 <div align="center">
   <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi  </h2>
@@ -18,6 +48,9 @@
 📝 Me interesa la inteligencia artificial y la robótica.
 🎵 Amo la música electrónica, la salsa y el rock.
 ```
+<div align="center">
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <h2 align="center">🧰 Herramientas y tecnologias  </h2>
 <div align="center">
