@@ -3,7 +3,7 @@
   [![portada_wr_animated](https://github.com/Wiilmar/Wiilmar/assets/130717547/d994f3df-46cc-4327-8b26-7b103cd82c78)](https://github.com/Wiilmar)
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> <br/> </h2>
+  <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> </h2>
   <p> Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por  la            programación y la tecnología. No dudes en explorar cada rincón de mi repositorio, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. ¡Espero que encuentres algo que te inspire en       tus propios desafíos de desarrollo! <br/><br/> <b> ¡Gracias por pasar por aquí y espero que disfrutes tu visita! </b> </p>
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
