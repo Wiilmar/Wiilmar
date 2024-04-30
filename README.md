@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi  </h2>
+  <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"></h2>
 </div>
 
 ```
@@ -27,8 +27,7 @@
 <div align="center">
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<h2 align="center">🧰 Herramientas y tecnologias  </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"> Herramientas y tecnologías <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"></h2>
 <div align="center">
   <p align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,vscode,figma,windows,github,discord&perline=11" />
