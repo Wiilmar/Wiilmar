@@ -31,7 +31,7 @@
 <div align="center">
   
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,discord,postgres,express,figma,firebase,git,github,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,vscode&perline=19" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,vscode,figma,windows,github,discord&perline=11" />
   </p>
   
 </div>
