@@ -61,16 +61,21 @@
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br/>
-  <h2 align="left"> ---- |📈| Github Statistics | ---- </h2>
 <div align="center">
-  <a href="https://github.com/Wiilmar/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
-  </a>
-  <a href="https://github.com/Wiilmar/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiilmar&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
+    <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"> Estadisticas GitHub <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"></h2>
+    <table align="center">
+      <tr border="none">
+        <td width="50%" align="center">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
+          <img  title="🔥" alt="Estadisticas" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiilmar&theme=merko&hide_border=false" /> 
+        </td>
+        <td width="50%" align="center">
+          <img height=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilmar&layout=donut-vertical&langs_count=6&theme=merko&hide_border=false&no-frame=true" />
+        </td>
+      </tr>
+    </table>
+    <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>  
 
 <h2 align="center"> ---- |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| En construccion |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| ---- </h2>
-<img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
