@@ -57,20 +57,19 @@
   </p>
 </div>
 
-<div align="center">
-  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+  <img align="center" alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadisticas GitHub <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
     <table align="center">
       <tr border="none">
         <td width="50%" align="center">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
-          <img  title="🔥" alt="Estadisticas" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiilmar&theme=merko&hide_border=false" /> 
+          <img alt="Estadisticas" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
+          </br>
+          <img alt="Mas estadisticas" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiilmar&theme=merko&hide_border=false" />
         </td>
         <td width="50%" align="center">
-          <img height=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilmar&layout=donut-vertical&langs_count=6&theme=merko&hide_border=false&no-frame=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilmar&layout=donut-vertical&langs_count=6&theme=merko&hide_border=false&no-frame=true" />
         </td>
       </tr>
     </table>
