@@ -27,12 +27,25 @@
   <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"></h2>
 </div>
 
-```
-💻 Soy un Desarrollador web y disfruto aprendiendo de manera autodidacta.
-📚 Me he certificado como tecnólogo en análisis y desarrollo de software en el CTPI - Cauca.
-📝 Me interesa la inteligencia artificial y la robótica.
-🎵 Amo la música electrónica, la salsa y el rock.
-```
+<div>
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+  - 🔭 1 <a href="" target="blank">g</a>
+
+  - 🌱 2
+    
+  - 🤝 3
+    
+  - 🌱 4 <a href="" target="blank">a</a>
+
+  - 📝 5 [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+    
+  - 💬 6 **a**
+    
+  - 📫 7
+    
+  - 📄 8 <a href="" target="blank">sdf</a>
+</div>
 
 <div align="center">
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
