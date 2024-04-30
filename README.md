@@ -5,17 +5,13 @@
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> </h2>
   <a target="_blank">
-    <img align="right" top="500" height="150" width="199" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <img align="right" top="500" height="150" width="199" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs1ejR4ZzZ6NGh1NXNmd3kzZnNyZXNmMWdrY2ZlZGR1Y2l0bnhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy-downsized.gif">
   </a>
   <p align="left"> 
     Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por        la programación y la tecnología. No dudes en explorar cada rincón de mi repositorio, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. <b>¡Espero que encuentres algo que te inspire       en tus propios desafíos de desarrollo!</b>
   </p>
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
----
-
----
 
 <div align="center">
   <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi  </h2>
@@ -33,10 +29,11 @@
 
 <h2 align="center">🧰 Herramientas y tecnologias  </h2>
 <div align="center">
-  <code><img height="30" alt="html | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/d532d632-a968-419d-b9ed-c3c8a450fbc5"/></code>
-  <code><img height="30" alt="css | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/3fa3d52b-f147-48f3-b136-6022243148de)"/></code>
-  <code><img height="30" alt="JS | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/a810fb59-3688-478b-a215-d8e3b88e16ff"/></code>
-  <code><img height="30" alt="React | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/e0290921-07a9-40e6-a292-0375e1629052"/></code>
+  
+  <p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,discord,postgres,express,figma,firebase,git,github,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,vscode&perline=19" />
+  </p>
+  
 </div>
 
 <br/>
