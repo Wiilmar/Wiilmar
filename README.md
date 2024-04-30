@@ -23,17 +23,20 @@
 📝 Me interesa la inteligencia artificial y la robótica.
 🎵 Amo la música electrónica, la salsa y el rock.
 ```
+
 <div align="center">
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <h2 align="center">🧰 Herramientas y tecnologias  </h2>
 <div align="center">
-  
   <p align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,vscode,figma,windows,github,discord&perline=11" />
   </p>
-  
+</div>
+
+<div align="center">
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <br/>
