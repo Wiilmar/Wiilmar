@@ -2,9 +2,15 @@
   
   [![portada_wr_animated](https://github.com/Wiilmar/Wiilmar/assets/130717547/d994f3df-46cc-4327-8b26-7b103cd82c78)](https://github.com/Wiilmar)
 
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> <br/> </h2>
+  <p> Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por la            programación y la tecnología. No dudes en explorar cada rincón de mi repositorio, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. ¡Espero que encuentres algo que te inspire en       tus propios desafíos de desarrollo! <br/> <b> ¡Gracias por pasar por aquí y espero que disfrutes tu visita! </b> </p>
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<div align="center">
+  <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqeGJxMjMxcWFrbjc5azRyOTFmNXNoeWgxNzRwa3V5a241MGk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pUvx2WHilZYxZ60e1/giphy.gif" width="27"> Acerca de mi  </h2>
+</div>
 
 ```
 💻 Soy un Desarrollador web y disfruto aprendiendo de manera autodidacta.
@@ -13,7 +19,7 @@
 🎵 Amo la música electrónica, la salsa y el rock.
 ```
 
-<h2 align="center"> ---- |🧰| Herramientas y tecnologias | ---- </h2>
+<h2 align="center">🧰 Herramientas y tecnologias  </h2>
 <div align="center">
   <code><img height="30" alt="html | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/d532d632-a968-419d-b9ed-c3c8a450fbc5"/></code>
   <code><img height="30" alt="css | logo" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/3fa3d52b-f147-48f3-b136-6022243148de)"/></code>
@@ -22,7 +28,7 @@
 </div>
 
 <br/>
-  <h2 align="center"> ---- |📈| Github Statistics | ---- </h2>
+  <h2 align="left"> ---- |📈| Github Statistics | ---- </h2>
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wiilmar&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -33,3 +39,4 @@
   </div>
 
 <h2 align="center"> ---- |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| En construccion |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| ---- </h2>
+<img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
