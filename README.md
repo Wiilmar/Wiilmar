@@ -1,4 +1,9 @@
-[![wr_banner](https://github.com/Wiilmar/Wiilmar/assets/130717547/9c8a01f6-90e5-4d17-a85d-b20fb3f322bd)](https://github.com/Wiilmar)
+<div align="center">
+  
+  [![portada_wr_animated](https://github.com/Wiilmar/Wiilmar/assets/130717547/d994f3df-46cc-4327-8b26-7b103cd82c78)](https://github.com/Wiilmar)
+
+</div>
+
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 ```
