@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
   
   - 🔭 1 <a href="" target="blank">g</a>
 
@@ -60,7 +60,7 @@
   <img align="center" alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-    <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadísticas GitHub <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
+    <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadísticas GitHub <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
     <table align="center">
       <tr border="none">
         <td width="50%" align="center">
@@ -77,8 +77,11 @@
       <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=Wiilmar&theme=matrix&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
     </a>
     <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>  
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb)
+[![Discord](https://img.shields.io/discord/1132423568546857032?style=flat&logo=discord&logoColor=blue&logoSize=auto&label=black&labelColor=green&color=pink)](https://discord.gg/4meMaXnnjK)
+
 
 <h2 align="center"> ---- |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| En construccion |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| ---- </h2>
 
