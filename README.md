@@ -63,14 +63,14 @@
 
 <br/>
   <h2 align="left"> ---- |📈| Github Statistics | ---- </h2>
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wiilmar&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilmar&theme=react&line_height=40&hide=css"/>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/Wiilmar/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
+  </a>
+  <a href="https://github.com/Wiilmar/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiilmar&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</div>  
 
 <h2 align="center"> ---- |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| En construccion |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| ---- </h2>
 <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
