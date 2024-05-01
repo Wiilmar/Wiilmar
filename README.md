@@ -68,6 +68,7 @@
 
 <div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadísticas GitHub <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
+    <p> (Si no puedes ver los resultados de las estadísticas, por favor recarga la página) </p>
     <table align="center">
       <tr border="none">
         <td width="50%" align="center">
