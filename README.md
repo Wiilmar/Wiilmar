@@ -35,8 +35,8 @@
 </div>
 
 <div>
-  <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-  
+  <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/b9b68761-5c7e-47f7-8373-6dc95605ca45">
+
   - 🔭 1 <a href="" target="blank">g</a>
 
   - 🌱 2
