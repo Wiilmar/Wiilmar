@@ -10,14 +10,23 @@
   </div>
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h2>  ¡Bienvenido/a! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> </h2>
-  <a target="_blank">
-    <img align="right" top="500" height="150" width="199" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs1ejR4ZzZ6NGh1NXNmd3kzZnNyZXNmMWdrY2ZlZGR1Y2l0bnhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy-downsized.gif">
-  </a>
-  <p align="left"> 
-    Es un placer tenerte por aquí. En mi <b>perfil de GitHub</b>, podrás sumergirte en un mundo de código, proyectos y soluciones creativas. Desde aplicaciones web hasta scripts innovadores, encontrarás una amplia variedad de trabajos que reflejan mi pasión por        la programación y la tecnología. No dudes en explorar mis repositorios, donde encontrarás información detallada sobre mis proyectos, contribuciones a la comunidad y las tecnologías que más me apasionan. <b>¡Espero que encuentres algo que te     
-    inspire en tus propios desafíos de desarrollo!</b>
-  </p>
+  <h2>  ¡Bienvenido, usuario! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"> <br/> </h2>
+  <table align="center">
+      <tr border="none">
+        <td width="80%">
+           <p align="left"> 
+              👋 <b>¡Bienvenido/a a mi perfil de GitHub!</b> Soy Wilman, un entusiasta desarrollador web junior apasionado por la programación. Aquí encontrarás una diversidad de proyectos que reflejan mi dedicación hacia la tecnología. 🔍 Explora mis     
+                 repositorios para descubrir detalles sobre mis ideas, contribuciones a la comunidad y las tecnologías que más me apasionan. 💡 <b> ¡Espero que encuentres inspiración para tus propios desafíos de desarrollo! 🌟 🌟</b>
+            </p>
+        </td>
+        <td width="20%" align="center">
+          <a target="_blank">
+            <img align="right" top="500" height="150" width="199" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs1ejR4ZzZ6NGh1NXNmd3kzZnNyZXNmMWdrY2ZlZGR1Y2l0bnhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy-downsized.gif">
+          </a>
+        </td>
+      </tr>
+  </table>
+ 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
