@@ -16,7 +16,7 @@
         <td width="80%">
            <p align="left"> 
               👋 <b>¡Bienvenido/a a mi perfil de GitHub!</b> Soy Wilman, un entusiasta desarrollador web junior apasionado por la programación. Aquí encontrarás una diversidad de proyectos que reflejan mi dedicación hacia la tecnología. 🔍 Explora mis     
-                 repositorios para descubrir detalles sobre mis ideas, contribuciones a la comunidad y las tecnologías que más me apasionan. 💡 <b> ¡Espero que encuentres inspiración para tus propios desafíos de desarrollo! 🌟 🌟</b>
+                 repositorios para descubrir detalles sobre mis ideas, contribuciones a la comunidad y las tecnologías que más me apasionan. 💡 <b> ¡Espero que encuentres inspiración para tus propios desafíos de desarrollo! 🌟</b>
             </p>
         </td>
         <td width="20%" align="center">
