@@ -49,7 +49,7 @@
     
   - 🎨 Apasionado por el diseño y la creatividad en proyectos.
     
-  - 🎵 Generos musicales favoritos: electrónica, Salsa y Rock.
+  - 🎵 Generos musicales favoritos: Electrónica, Salsa y Rock.
     
   - 🏊‍♂️ Soy Aficionado a la actividad física y natación. 
 </div>
