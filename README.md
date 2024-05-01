@@ -37,21 +37,21 @@
 <div>
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/b9b68761-5c7e-47f7-8373-6dc95605ca45">
 
-  - 🔭 1 <a href="" target="blank">g</a>
+  - 🎓 Certificado en programación por <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" target="blank"> SENA </a>
 
-  - 🌱 2
+  - 🌐 Estoy disponible para prácticas remotas o presenciales en Popayán.
     
-  - 🤝 3
+  - 💡 Aportador de ideas con impacto social.
     
-  - 🌱 4 <a href="" target="blank">a</a>
+  - 💼 Futuro freelancer en desarrollo.
 
-  - 📝 5 [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+  - 📚 Experiencia en proyecto educativo: <a href="https://rutasparamoteros.vercel.app" target="blank"> R.P.M. </a>
     
-  - 💬 6 **a**
+  - 🎨 Apasionado por el diseño y la creatividad en proyectos.
     
-  - 📫 7
+  - 🎵 Generos musicales favoritos: electrónica, Salsa y Rock.
     
-  - 📄 8 <a href="" target="blank">sdf</a>
+  - 🏊‍♂️ Soy Aficionado a la actividad física y natación. 
 </div>
 
 <div align="center">
