@@ -69,7 +69,8 @@
 <div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadísticas GitHub <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
     <p> (Si no puedes ver los resultados de las estadísticas, por favor recarga la página) </p>
-    <table align="center">
+  
+  <table align="center">
       <tr border="none">
         <td width="50%" align="center">
           <img alt="Estadisticas" src="https://github-readme-stats.vercel.app/api?username=Wiilmar&show_icons=true&theme=merko" />
@@ -80,12 +81,13 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilmar&layout=donut-vertical&langs_count=6&theme=merko&hide_border=false&no-frame=true" />
         </td>
       </tr>
-    </table>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=Wiilmar&theme=matrix&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
-    </a>
-    <br/><br/>
-    <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </table>
+    
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=Wiilmar&theme=matrix&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
+  </a>
+  <br/><br/>
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>  
 
 <div align="center">
