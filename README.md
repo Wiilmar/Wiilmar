@@ -3,12 +3,10 @@
   [![portada_wr_animated](https://github.com/Wiilmar/Wiilmar/assets/130717547/d994f3df-46cc-4327-8b26-7b103cd82c78)](https://github.com/Wiilmar)
 
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" />
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" /> 
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" /> 
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" /> 
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" /> 
-    <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Profile%20views&color=0e75b6&style=flat" alt="Wiilmar" /> 
+  <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Visitas%20perfil&color=1A8B11&style=flat&abbreviated=true" alt="Visitas perfil - WR" />
+    
+  ![GitHub followers](https://img.shields.io/github/followers/Wiilmar?style=flat&logo=GitHub&logoColor=white&logoSize=auto&label=Seguidores&labelColor=black&color=1A8B11)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Wiilmar?style=flat&logo=GitHub&logoColor=white&logoSize=auto&label=Estrellas&labelColor=black&color=1A8B11)
   </div>
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -76,12 +74,22 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=Wiilmar&theme=matrix&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
     </a>
+    <br/><br/>
     <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>  
+<div align="center">
+    <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"> Contáctame <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"></h2>
+  
+  [![Discord](https://img.shields.io/discord/1132423568546857032?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=Grupo%20%3CDev%2F%3E&labelColor=0A0C84&color=white)](https://discord.gg/4meMaXnnjK)
+  [![Static Badge](https://img.shields.io/badge/Instagram-%2520?style=flat&logo=Instagram&logoColor=white&logoSize=auto&labelColor=C31353&color=C31353)](https://www.instagram.com/wagr_ig/)
+  [![Static Badge](https://img.shields.io/badge/Hotmail-%2520?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=1393C3&color=1393C3)](mailto:andresungido@hotmail.com?subject=Hola)
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb)
-[![Discord](https://img.shields.io/discord/1132423568546857032?style=flat&logo=discord&logoColor=blue&logoSize=auto&label=black&labelColor=green&color=pink)](https://discord.gg/4meMaXnnjK)
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
-<h2 align="center"> ---- |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| En construccion |🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️| ---- </h2>
 
