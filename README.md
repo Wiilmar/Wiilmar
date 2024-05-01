@@ -37,7 +37,7 @@
 <div>
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/b9b68761-5c7e-47f7-8373-6dc95605ca45">
 
-  - 🎓 Certificado en programación por <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" target="blank"> SENA </a>
+  - 🎓 Certificado en programación por <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" target="_blank"> SENA </a>
 
   - 🌐 Estoy disponible para prácticas remotas o presenciales en Popayán.
     
@@ -45,7 +45,7 @@
     
   - 💼 Futuro freelancer en desarrollo.
 
-  - 📚 Experiencia en proyecto educativo: <a href="https://rutasparamoteros.vercel.app" target="blank"> R.P.M. </a>
+  - 📚 Experiencia en proyecto educativo: <a href="https://rutasparamoteros.vercel.app" target="_blank"> R.P.M. </a>
     
   - 🎨 Apasionado por el diseño y la creatividad en proyectos.
     
