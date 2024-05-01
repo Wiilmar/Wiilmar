@@ -51,7 +51,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"> Tecnologías <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"></h2>
 <div align="center">
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,vscode,figma,windows,github,discord&perline=11" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,kotlin,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,bootstrap,vscode,figma,windows,github,discord&perline=12" />
   </p>
 </div>
 
@@ -87,5 +87,5 @@
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![footer](https://github.com/Wiilmar/Wiilmar/assets/130717547/8a6a6ee5-ba3b-4c5a-8908-a5c2ac547cc6)
 
