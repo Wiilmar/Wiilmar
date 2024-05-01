@@ -45,7 +45,7 @@
     
   - 💼 Futuro freelancer en desarrollo.
 
-  - 📚 Experiencia en proyecto educativo: <a href="https://rutasparamoteros.vercel.app" target="_blank"> R.P.M. </a>
+  - 📚 Experiencia en proyecto educativo: <a href="https://rutasparamoteros.vercel.app" target="_blank" Target="_blank" > R.P.M. </a>
     
   - 🎨 Apasionado por el diseño y la creatividad en proyectos.
     
