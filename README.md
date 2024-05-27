@@ -36,7 +36,7 @@
 <div>
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://github.com/Wiilmar/Wiilmar/assets/130717547/b9b68761-5c7e-47f7-8373-6dc95605ca45">
 
-  - 🎓 Estudie Tecnologo en programación en el <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx"> SENA - CTPI </a>
+  - 🎓 Estudié Tecnólogo de programación en el  <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx"> SENA - CTPI </a>
 
   - 🌐 Estoy disponible para prácticas remotas o presenciales en Popayán.
     
