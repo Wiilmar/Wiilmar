@@ -92,9 +92,9 @@
 <div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"> Contáctame <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"></h2>
   
-  [![Discord](https://img.shields.io/discord/1132423568546857032?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=Grupo%20%3CDev%2F%3E&labelColor=0A0C84&color=white)](https://discord.gg/4meMaXnnjK)
-  [![Static Badge](https://img.shields.io/badge/Instagram-%2520?style=flat&logo=Instagram&logoColor=white&logoSize=auto&labelColor=C31353&color=C31353)](https://www.instagram.com/wagr_ig/)
-  [![Static Badge](https://img.shields.io/badge/Hotmail-%2520?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=1393C3&color=1393C3)](mailto:andresungido@hotmail.com?subject=Hola)
+  [![Spotify](https://img.shields.io/discord/1132423568546857032?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=Grupo%20%3CDev%2F%3E&labelColor=0A0C84&color=white)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=722a7156fff34570)
+  [![Instagram](https://img.shields.io/badge/Instagram-%2520?style=flat&logo=Instagram&logoColor=white&logoSize=auto&labelColor=C31353&color=C31353)](https://www.instagram.com/wagr_ig/)
+  [![Hotmail](https://img.shields.io/badge/Hotmail-%2520?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=1393C3&color=1393C3)](mailto:andresungido@hotmail.com?subject=Hola)
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
