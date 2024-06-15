@@ -67,8 +67,10 @@
 
 <div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"> Estadísticas GitHub <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlNThzMDZleDN1ajR4YjQxNTJ3eXBuNndqaHZmazJ6a2gyYTR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXoyvLVaXqYbi6KUhu/giphy.gif" width="27" alt="Gif"></h2>
-    <p> (Si no puedes ver los resultados de las estadísticas, por favor recarga la página) </p>
+    <p> "Si no puedes ver los resultados de las estadísticas, por favor recarga la página o haz clic en el siguiente botón:” </p>
   
+   [![Github](https://img.shields.io/badge/Github-%252520?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://profile-summary-for-github.herokuapp.com/user/Wiilmar) 
+
   <table align="center">
       <tr border="none">
         <td width="50%" align="center">
@@ -90,9 +92,16 @@
 </div>  
 
 <div align="center">
+      <h2> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"> Spotify <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"></h2>
+
+
+
+  <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
     <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"> Contáctame <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNmMXg3aW04bzA0cTIzcGt4bWpoOWttamtqdTl6MzU1a2tzeHYweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xLKmlaVFfbGy5dAvZ6/giphy.gif" width="27" alt="Gif"></h2>
-  
-  [![Spotify](https://img.shields.io/discord/1132423568546857032?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=Grupo%20%3CDev%2F%3E&labelColor=0A0C84&color=white)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=722a7156fff34570)
+
   [![Instagram](https://img.shields.io/badge/Instagram-%2520?style=flat&logo=Instagram&logoColor=white&logoSize=auto&labelColor=C31353&color=C31353)](https://www.instagram.com/wagr_ig/)
   [![Hotmail](https://img.shields.io/badge/Hotmail-%2520?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=1393C3&color=1393C3)](mailto:andresungido@hotmail.com?subject=Hola)
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
