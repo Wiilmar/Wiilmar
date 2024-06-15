@@ -94,7 +94,7 @@
 <div align="center">
       <h2> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"> Spotify <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"></h2>
 
-
+[![Spotify](https://spotify-wr.vercel.app/api/spotify)]
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
