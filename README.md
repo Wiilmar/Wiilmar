@@ -94,7 +94,18 @@
 <div align="center">
       <h2> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"> Spotify <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV1NW95a2NrN3YxZW91bmUyNm45ZHluMWhoZDhkN2MxcXB0dXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.webp" width="27" alt="Gif"></h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bjawcwrwc6nmxpx53qjnp6of2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=e0725b5e04c0447b)
+<table align="center">
+  <tr border="none">
+    <td width="auto">
+      
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bjawcwrwc6nmxpx53qjnp6of2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=e0725b5e04c0447b)        
+  </td>
+    <td width="auto">
+  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bjawcwrwc6nmxpx53qjnp6of2y&width=610&count=7)
+    </td>
+  </tr>
+</table>
 
   <img alt="Separador" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
