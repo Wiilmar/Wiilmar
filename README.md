@@ -38,7 +38,7 @@
 
   - 🎓 Estudié Tecnólogo en A.D.S.O. en el  <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx"> SENA - CTPI </a>
 
-  - 🌐 Estoy disponible para prácticas remotas o presenciales en Popayán.
+  - 🌐 Interesado en aprender I.A.
     
   - 💡 Aportador de ideas con impacto social.
     
