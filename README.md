@@ -98,7 +98,7 @@
   <tr border="none">
     <td width="auto">
       
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bjawcwrwc6nmxpx53qjnp6of2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=e0725b5e04c0447b)        
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bjawcwrwc6nmxpx53qjnp6of2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31bjawcwrwc6nmxpx53qjnp6of2y?si=e0725b5e04c0447b)      
 
   </td>
     <td width="auto">
