@@ -2,6 +2,7 @@
   
   [![portada_wr_animated](https://github.com/Wiilmar/Wiilmar/assets/130717547/d994f3df-46cc-4327-8b26-7b103cd82c78)](https://github.com/Wiilmar)
 
+
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Wiilmar&label=Visitas%20perfil&color=1A8B11&style=flat&abbreviated=true" alt="Visitas perfil - WR" />
     
