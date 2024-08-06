@@ -60,7 +60,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"> Tecnologías <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml6MnYwMWcwczJpdmh4MGNsYTRoaDlkNjJmOW1naWx4ZDkydmphcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27" alt="Gif"></h2>
 <div align="center">
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,mongodb,mysql,nodejs,postman,react,vite,tailwind,bootstrap,vscode,figma,windows,github&perline=9" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jquery,ts,git,github,postgres,mysql,mongodb,react,vite,nodejs,postman,figma,vscode,windows,&perline=10" />
   </p>
   <!--  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,postgres,express,firebase,androidstudio,kotlin,mongodb,mysql,nextjs,nodejs,postman,react,vite,tailwind,bootstrap,vscode,figma,windows,github,discord&perline=8" /> -->
 </div>
